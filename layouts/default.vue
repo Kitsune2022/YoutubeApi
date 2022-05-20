@@ -110,7 +110,7 @@ export default {
         {
           icon: 'mdi-chart-bubble',
           title: 'YoutubeApi',
-          to: '/youtube/list'
+          to: '/list'
         }
       ],
       miniVariant: false,
